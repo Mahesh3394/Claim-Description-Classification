@@ -18,3 +18,5 @@ target columns are Coverage Code and Accident Source.
 ## Evaluation
 Evaluation will be done on your model’s precision and recall score. Along with the GUI features.
 
+## UI Link : https://huggingface.co/spaces/mahesh3394/gallegher_insurance_app
+
